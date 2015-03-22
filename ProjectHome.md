@@ -1,0 +1,1 @@
+Votefinder is a web-based application for tracking votes in mafia games on the SomethingAwful website's Traditional Games subforum.
